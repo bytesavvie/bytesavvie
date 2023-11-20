@@ -22,9 +22,10 @@ I'm a self taught, full stack developer, that went head first into coding and fe
 
 You can reach out to me on a multitude of platforms!
 
-- <img src="https://raw.githubusercontent.com/bytesavvie/master/assets/logo-gmail.png" align="center"> : luckystan0525@gmail.com
-- <img src="https://raw.githubusercontent.com/bytesavvie/master/assets/logo-discord.png" align="center">: [`@__sirius__`](https://discord.com/users/1176173852422848562)
-- <img src="https://raw.githubusercontent.com/bytesavvie/master/assets/logo-telegram.png" align="center"> : [`ctian0802`][Telegram]
+- <img src="https://raw.githubusercontent.com/bytesavvie/bytesavvie/master/assets/logo-gmail.png" align="center"> : autonome0802@gmail.com
+- <img src="https://raw.githubusercontent.com/bytesavvie/bytesavvie/master/assets/logo-discord.png" align="center">: [`@__sirius__`](https://discord.com/users/1176173852422848562)
+- <img src="https://raw.githubusercontent.com/bytesavvie/bytesavvie/master/assets/logo-telegram.png" align="center"> : [`ctian0802`][Telegram]
+
 
 ## 🔭 Projects
 
@@ -44,10 +45,10 @@ Here's a quick run down of some of the projects I'm working on / some of the tea
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.bytesavvie.vercel.app/api/?username=bytesavvie&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.anuraghazra.vercel.app/api/?username=bytesavvie&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.bytesavvie.vercel.app/api/top-langs/?username=bytesavvie&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true&extra=GAwesomeBot/bot,sharding-manager-next,api-next,web-next,bot-next,ts-template,worker-library,websocket-next;discordjs/discord.js,discord-api-types,collection;KlasaCommunityPlugins/no-mention-spam,tags,functions,channels-gateway,raw-events;auttaja/frontend;binarytf/binarytf;SolteraGG/StickyWallet,kotlin-plugin-base;Gay-Geeks/core,currency,leveling,utils,types,shop,modules-template;sapphiredev/utilities,framework,pieces,plugins,interactions,shapeshift,spinel,website;skyra-project/skyra,char;pfp-lgbt/frontend,pfp-lgbt-api;apify/browser-pool,apify-storage-local-js,apify-sdk-js,apify-client-js,apify-ts,crawlee,fingerprint-suite,apify-shared-js,proxy-chain,apify-actor-docker;statespacelabs/onlylabs-discord-bot;tidalmarket/tidal-ticket-bot-vladdy" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.anuraghazra.vercel.app/api/top-langs/?username=bytesavvie&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true&extra=GAwesomeBot/bot,sharding-manager-next,api-next,web-next,bot-next,ts-template,worker-library,websocket-next;discordjs/discord.js,discord-api-types,collection;KlasaCommunityPlugins/no-mention-spam,tags,functions,channels-gateway,raw-events;auttaja/frontend;binarytf/binarytf;SolteraGG/StickyWallet,kotlin-plugin-base;Gay-Geeks/core,currency,leveling,utils,types,shop,modules-template;sapphiredev/utilities,framework,pieces,plugins,interactions,shapeshift,spinel,website;skyra-project/skyra,char;pfp-lgbt/frontend,pfp-lgbt-api;apify/browser-pool,apify-storage-local-js,apify-sdk-js,apify-client-js,apify-ts,crawlee,fingerprint-suite,apify-shared-js,proxy-chain,apify-actor-docker;statespacelabs/onlylabs-discord-bot;tidalmarket/tidal-ticket-bot-vladdy" />
     </td>
   </tr>
 </table>
