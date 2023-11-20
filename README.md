@@ -22,9 +22,9 @@ I'm a self taught, full stack developer, that went head first into coding and fe
 
 You can reach out to me on a multitude of platforms!
 
-- <img src="https://raw.githubusercontent.com/bytesavvie/vladfrangu/master/assets/logo-gmail.png" align="center"> : luckystan0525@gmail.com
-- <img src="https://raw.githubusercontent.com/bytesavvie/vladfrangu/master/assets/logo-discord.png" align="center">: [`@__sirius__`](https://discord.com/users/1176173852422848562)
-- <img src="https://raw.githubusercontent.com/bytesavvie/vladfrangu/master/assets/logo-telegram.png" align="center"> : [`ctian0802`][Telegram]
+- <img src="https://raw.githubusercontent.com/bytesavvie/master/assets/logo-gmail.png" align="center"> : luckystan0525@gmail.com
+- <img src="https://raw.githubusercontent.com/bytesavvie/master/assets/logo-discord.png" align="center">: [`@__sirius__`](https://discord.com/users/1176173852422848562)
+- <img src="https://raw.githubusercontent.com/bytesavvie/master/assets/logo-telegram.png" align="center"> : [`ctian0802`][Telegram]
 
 ## 🔭 Projects
 
