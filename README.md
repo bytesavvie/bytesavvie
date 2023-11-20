@@ -1,6 +1,6 @@
 # Hi there, I'm Peter Tian! 👋  <img src="https://komarev.com/ghpvc/?username=bytesavvie" alt="" align="center" />
 
-I'm a Frontend-focused Developer from Dallas! ✨ I'm a very fast learner in most programming languages and an open-source software creator; with focus on: [`TypeScript`] (and JavaScript 👀) & [`Vue`] & [`React`] (with TSX, of course). I've also experimented with [`Kotlin`] (and [`Java`]), [`C#`] and a bit of [`Rust`] 😄
+I'm a Frontend-focused Full-Stack Developer from Dallas! ✨ I'm a very fast learner in most programming languages and an open-source software creator; with focus on: [`TypeScript`] (and JavaScript 👀) & [`Vue`] & [`React`] (with TSX, of course). I've also experimented with [`Kotlin`] (and [`Java`]), [`C#`] and a bit of [`Rust`] 😄
 
 - 😄 Pronouns: anything you want, as long as it isn't offensive to anyone. He, she, they, doesn't matter to me
 - ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, and if that doesn't work, by researching it. While counter intuitive, this has helped me get started with the world of programming! Nowadays, I do research, but after I tried figuring out the solution by myself 😅
@@ -27,7 +27,7 @@ You can reach out to me on a multitude of platforms!
 - <img src="https://raw.githubusercontent.com/bytesavvie/bytesavvie/master/assets/logo-telegram.png" align="center"> : [`ctian0802`][Telegram]
 
 
-## 🔭 Projects
+<!-- ## 🔭 Projects
 
 Here's a quick run down of some of the projects I'm working on / some of the teams I'm working with:
 
@@ -36,6 +36,7 @@ Here's a quick run down of some of the projects I'm working on / some of the tea
 - 🏳️‍🌈 [`pfp.lgbt`] - a simple UI to add pride flags to your images or GIFs
 - 🤖 [`Auttaja`] - a super powerful [`Discord`] moderation bot to keep your server in check
 - 👯 [`Gay Geeks`] - a team building custom bots and tools to enhance the Gay Geeks [`Discord`] server experience
+-->
 
 > I tend to pick up a lot of projects as time passes, so this list is not exhaustive! :sweat_smile:
 > You can see more by exploring [`my repositories`]
