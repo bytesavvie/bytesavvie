@@ -1,6 +1,6 @@
-# Hi there, I'm Vlad Frangu! 👋  <img src="https://komarev.com/ghpvc/?username=bytesavvie" alt="" align="center" />
+# Hi there, I'm Peter Tian! 👋  <img src="https://komarev.com/ghpvc/?username=bytesavvie" alt="" align="center" />
 
-I'm a Frontend-focused Developer from Bucharest! ✨ I'm a very fast learner in most programming languages and an open-source software creator; with focus on: [`TypeScript`] (and JavaScript 👀) & [`Vue`] & [`React`] (with TSX, of course). I've also experimented with [`Kotlin`] (and [`Java`]), [`C#`] and a bit of [`Rust`] 😄
+I'm a Frontend-focused Developer from Dallas! ✨ I'm a very fast learner in most programming languages and an open-source software creator; with focus on: [`TypeScript`] (and JavaScript 👀) & [`Vue`] & [`React`] (with TSX, of course). I've also experimented with [`Kotlin`] (and [`Java`]), [`C#`] and a bit of [`Rust`] 😄
 
 - 😄 Pronouns: anything you want, as long as it isn't offensive to anyone. He, she, they, doesn't matter to me
 - ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, and if that doesn't work, by researching it. While counter intuitive, this has helped me get started with the world of programming! Nowadays, I do research, but after I tried figuring out the solution by myself 😅
@@ -22,10 +22,9 @@ I'm a self taught, full stack developer, that went head first into coding and fe
 
 You can reach out to me on a multitude of platforms!
 
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-gmail.png" align="center"> : kingdgrizzle@gmail.com OR vlad@sapphirejs.dev
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center">: [`@vladdy`](https://discord.com/users/139836912335716352)
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-twitter.png" align="center"> : [`WolfgalVlad`][Twitter]
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-telegram.png" align="center"> : [`WolfgalVlad`][Telegram]
+- <img src="https://raw.githubusercontent.com/bytesavvie/vladfrangu/master/assets/logo-gmail.png" align="center"> : luckystan0525@gmail.com
+- <img src="https://raw.githubusercontent.com/bytesavvie/vladfrangu/master/assets/logo-discord.png" align="center">: [`@__sirius__`](https://discord.com/users/1176173852422848562)
+- <img src="https://raw.githubusercontent.com/bytesavvie/vladfrangu/master/assets/logo-telegram.png" align="center"> : [`ctian0802`][Telegram]
 
 ## 🔭 Projects
 
@@ -45,10 +44,10 @@ Here's a quick run down of some of the projects I'm working on / some of the tea
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=vladfrangu&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.bytesavvie.vercel.app/api/?username=bytesavvie&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=vladfrangu&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true&extra=GAwesomeBot/bot,sharding-manager-next,api-next,web-next,bot-next,ts-template,worker-library,websocket-next;discordjs/discord.js,discord-api-types,collection;KlasaCommunityPlugins/no-mention-spam,tags,functions,channels-gateway,raw-events;auttaja/frontend;binarytf/binarytf;SolteraGG/StickyWallet,kotlin-plugin-base;Gay-Geeks/core,currency,leveling,utils,types,shop,modules-template;sapphiredev/utilities,framework,pieces,plugins,interactions,shapeshift,spinel,website;skyra-project/skyra,char;pfp-lgbt/frontend,pfp-lgbt-api;apify/browser-pool,apify-storage-local-js,apify-sdk-js,apify-client-js,apify-ts,crawlee,fingerprint-suite,apify-shared-js,proxy-chain,apify-actor-docker;statespacelabs/onlylabs-discord-bot;tidalmarket/tidal-ticket-bot-vladdy" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.bytesavvie.vercel.app/api/top-langs/?username=bytesavvie&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true&extra=GAwesomeBot/bot,sharding-manager-next,api-next,web-next,bot-next,ts-template,worker-library,websocket-next;discordjs/discord.js,discord-api-types,collection;KlasaCommunityPlugins/no-mention-spam,tags,functions,channels-gateway,raw-events;auttaja/frontend;binarytf/binarytf;SolteraGG/StickyWallet,kotlin-plugin-base;Gay-Geeks/core,currency,leveling,utils,types,shop,modules-template;sapphiredev/utilities,framework,pieces,plugins,interactions,shapeshift,spinel,website;skyra-project/skyra,char;pfp-lgbt/frontend,pfp-lgbt-api;apify/browser-pool,apify-storage-local-js,apify-sdk-js,apify-client-js,apify-ts,crawlee,fingerprint-suite,apify-shared-js,proxy-chain,apify-actor-docker;statespacelabs/onlylabs-discord-bot;tidalmarket/tidal-ticket-bot-vladdy" />
     </td>
   </tr>
 </table>
@@ -67,10 +66,8 @@ Here's a quick run down of some of the projects I'm working on / some of the tea
 [`React`]:               https://reactjs.org/
 [`Discord`]:             https://discord.com/
 [`pfp.lgbt`]:            https://pfp.lgbt/
-[`my repositories`]:     https://github.com/vladfrangu?tab=repositories
+[`my repositories`]:     https://github.com/bytesavvie?tab=repositories
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
-[Twitter]:               https://twitter.com/WolfgalVlad
-[Telegram]:              https://t.me/WolfgalVlad
 
 <!--------------- Teams ----------------->
 
