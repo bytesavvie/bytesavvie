@@ -1,6 +1,6 @@
-# Hi there, I'm Peter Tian! 👋  <img src="https://komarev.com/ghpvc/?username=bytesavvie" alt="" align="center" />
+## Hey there 👋  <img src="https://komarev.com/ghpvc/?username=bytesavvie" alt="" align="center" />
 
-I'm a Frontend-focused Full-Stack Developer from Dallas! ✨ I'm a very fast learner in most programming languages and an open-source software creator; with focus on: [`TypeScript`] (and JavaScript 👀) & [`Vue`] & [`React`] (with TSX, of course). I've also experimented with [`Kotlin`] (and [`Java`]), [`C#`] and a bit of [`Rust`] 😄
+I am a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. ✨ I'm a very fast learner in most programming languages; with focus on: [`TypeScript`] (and JavaScript 👀) & [`Vue`] & [`React`] (with TSX, of course). I've also experimented with [`Kotlin`] (and [`Java`]), [`C#`] and a bit of [`Rust`] 😄
 
 - 😄 Pronouns: anything you want, as long as it isn't offensive to anyone. He, she, they, doesn't matter to me
 - ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, and if that doesn't work, by researching it. While counter intuitive, this has helped me get started with the world of programming! Nowadays, I do research, but after I tried figuring out the solution by myself 😅
@@ -27,7 +27,7 @@ You can reach out to me on a multitude of platforms!
 - <img src="https://raw.githubusercontent.com/bytesavvie/bytesavvie/master/assets/logo-telegram.png" align="center"> : [`ctian0802`][Telegram]
 
 
-## 🔭 Projects
+<!--## 🔭 Projects
 
 Here are some of my latest projects I have been working on.
 
@@ -45,6 +45,7 @@ Full Stack app that let's you explore all the national parks. Search and filter 
 
 > I tend to pick up a lot of projects as time passes, so this list is not exhaustive! :sweat_smile:
 > You can see more by exploring [`my repositories`]
+-->
 
 ### 👀 Quick Statistics
 
