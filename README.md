@@ -1,4 +1,4 @@
-## Hey there 👋  <img src="https://komarev.com/ghpvc/?username=bytesavvie" alt="" align="center" />
+## Hey there! 👋  <img src="https://komarev.com/ghpvc/?username=bytesavvie" alt="" align="center" />
 
 I am a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. ✨ I'm a very fast learner in most programming languages; with focus on: [`TypeScript`] (and JavaScript 👀) & [`Vue`] & [`React`] (with TSX, of course). I've also experimented with [`Kotlin`] (and [`Java`]), [`C#`] and a bit of [`Rust`] 😄
 
@@ -23,7 +23,6 @@ I'm a self taught, full stack developer, that went head first into coding and fe
 You can reach out to me on a multitude of platforms!
 
 - <img src="https://raw.githubusercontent.com/bytesavvie/bytesavvie/master/assets/logo-gmail.png" align="center"> : autonome0802@gmail.com
-- <img src="https://raw.githubusercontent.com/bytesavvie/bytesavvie/master/assets/logo-discord.png" align="center">: [`@__sirius__`](https://discord.com/users/1176173852422848562)
 - <img src="https://raw.githubusercontent.com/bytesavvie/bytesavvie/master/assets/logo-telegram.png" align="center"> : [`ctian0802`][Telegram]
 
 
