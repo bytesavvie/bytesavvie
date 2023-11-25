@@ -1,6 +1,6 @@
 ## Hey there! 👋  <img src="https://komarev.com/ghpvc/?username=bytesavvie" alt="" align="center" />
 
-I am a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. ✨ I'm a very fast learner in most programming languages; with focus on: [`TypeScript`] (and JavaScript 👀) & [`Vue`] & [`React`] (with TSX, of course). I've also experimented with [`Kotlin`] (and [`Java`]), [`C#`] and a bit of [`Rust`] 😄
+I am a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. ✨ I'm a very fast learner in most programming languages; with focus on: [`TypeScript`] (and JavaScript 👀) & [`React`](with TSX, of course) & [`Angular`] & [`Vue`]. Also I have strong proficiency with [`Java`] (and [`Spring Boot`]), [`Python`] (and [`Django`]) and [`.NET`] 😄
 
 - 😄 Pronouns: anything you want, as long as it isn't offensive to anyone. He, she, they, doesn't matter to me
 - ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, and if that doesn't work, by researching it. While counter intuitive, this has helped me get started with the world of programming! Nowadays, I do research, but after I tried figuring out the solution by myself 😅
