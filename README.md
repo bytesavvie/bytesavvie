@@ -70,6 +70,7 @@ Full Stack app that let's you explore all the national parks. Search and filter 
 [`ASP.NET`]:             https://dotnet.microsoft.com/en-us/apps/aspnet/
 [`Rust`]:                https://www.rust-lang.org/
 [`Go`]:                  https://golang.org
+[`C++`]:                 https://cplusplus.com/
 [`C#`]:                  https://docs.microsoft.com/en-us/dotnet/csharp/
 [`Python`]:               https://www.python.org/
 [`Angular`]:             https://angular.io/
