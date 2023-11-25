@@ -1,6 +1,6 @@
 ## Hey there! 👋  <img src="https://komarev.com/ghpvc/?username=bytesavvie" alt="" align="center" />
 
-I am a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. ✨ I'm a very fast learner in most programming languages; with focus on: [`TypeScript`] (and JavaScript 👀) & [`React`](with TSX, of course) & [`Angular`] & [`Vue`]. Also I have strong proficiency with [`Java`] (and [`Spring Boot`]), [`Python`] (and [`Django`]) and [`.NET`] 😄
+I am a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. ✨ I'm a very fast learner in most programming languages; with focus on: [`TypeScript`] (and JavaScript 👀) & [`React`](with TSX, of course) & [`Angular`] & [`Vue`]. Also I have strong proficiency with [`Java`] (and [`Spring Boot`]), [`Python`] and [`ASP.NET`] 😄
 
 - 😄 Pronouns: anything you want, as long as it isn't offensive to anyone. He, she, they, doesn't matter to me
 - ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, and if that doesn't work, by researching it. While counter intuitive, this has helped me get started with the world of programming! Nowadays, I do research, but after I tried figuring out the solution by myself 😅
@@ -8,7 +8,7 @@ I am a senior full-stack engineer, creative coder and self-proclaimed designer w
 
 ## 📚 Experience
 
-I'm a self taught, full stack developer, that went head first into coding and fell in love from the first lines of code I've written! Started experimenting with coding around **September of 2014** in the [`Java`] programming language. Since **January of 2016**, I switched to JavaScript as my main language, and shortly after moved to [`TypeScript`] (thanks to its much better coding experience), which is what I use daily now. I've also experimented with other languages (such as [`Rust`], [`Kotlin`], [`C#`] or [`Go`]), but so far my language of choice is still [`TypeScript`].
+I'm a self taught, full stack developer, that went head first into coding and fell in love from the first lines of code I've written! Started experimenting with coding around **September of 2014** in the [`Java`] programming language. Since **January of 2016**, I switched to JavaScript as my main language, and shortly after moved to [`TypeScript`] (thanks to its much better coding experience), which is what I use daily now. I've also experimented with other languages (such as [`C++`], [`Python`], [`C#`] or [`Go`]), but so far my languages of choice are still [`TypeScript`] and [`Java`].
 
 ### Key Notes ✍️
 
@@ -66,9 +66,13 @@ Full Stack app that let's you explore all the national parks. Search and filter 
 [`TypeScript`]:          https://www.typescriptlang.org/
 [`Kotlin`]:              https://kotlinlang.org/
 [`Java`]:                https://adoptopenjdk.net/
+[`Spring Boot`]:         https://spring.io/projects/spring-boot/
+[`ASP.NET`]:             https://dotnet.microsoft.com/en-us/apps/aspnet/
 [`Rust`]:                https://www.rust-lang.org/
 [`Go`]:                  https://golang.org
 [`C#`]:                  https://docs.microsoft.com/en-us/dotnet/csharp/
+[`Python`]:               https://www.python.org/
+[`Angular`]:             https://angular.io/
 [`Vue`]:                 https://vuejs.org/
 [`React`]:               https://reactjs.org/
 [`Discord`]:             https://discord.com/
